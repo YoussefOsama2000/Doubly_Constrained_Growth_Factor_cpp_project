@@ -1,0 +1,718 @@
+13:19:54 **** Rebuild of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+13:22:59 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+13:25:17 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+13:28:42 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+Info: Nothing to build for interpolation
+13:30:07 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+Info: Nothing to build for interpolation
+13:30:22 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+Info: Nothing to build for interpolation
+13:30:52 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+Info: Nothing to build for interpolation
+13:32:10 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+Info: Nothing to build for interpolation
+13:33:07 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file interpolation.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+13:33:14 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -o interpolation.exe interpolation.o 
+13:36:54 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+Info: Nothing to build for interpolation
+13:37:27 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+15:33:12 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+Info: Nothing to build for interpolation
+15:33:46 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file interpolation.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:33:52 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -o interpolation.exe interpolation.o 
+Info: Nothing to build for interpolation
+Info: Nothing to build for interpolation
+Info: Nothing to build for interpolation
+15:37:48 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file interpolation.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:37:58 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -o interpolation.exe interpolation.o 
+Info: Nothing to build for interpolation
+15:41:58 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+..\interpolation.cpp: In function 'int main()':
+..\interpolation.cpp:26:6: error: reference to 'next' is ambiguous
+   if(next=='Y'||next=='y')
+      ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next='y';
+      ^~~~
+..\interpolation.cpp:26:17: error: reference to 'next' is ambiguous
+   if(next=='Y'||next=='y')
+                 ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next='y';
+      ^~~~
+..\interpolation.cpp: In function 'void printResult()':
+..\interpolation.cpp:91:9: error: reference to 'next' is ambiguous
+    cin>>next;
+         ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next='y';
+      ^~~~
+15:42:02 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+..\interpolation.cpp: In function 'int main()':
+..\interpolation.cpp:26:6: error: reference to 'next' is ambiguous
+   if(next=='Y'||next=='y')
+      ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next='y';
+      ^~~~
+..\interpolation.cpp:26:17: error: reference to 'next' is ambiguous
+   if(next=='Y'||next=='y')
+                 ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next='y';
+      ^~~~
+..\interpolation.cpp: In function 'void printResult()':
+..\interpolation.cpp:91:9: error: reference to 'next' is ambiguous
+    cin>>next;
+         ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next='y';
+      ^~~~
+15:44:36 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+..\interpolation.cpp: In function 'int main()':
+..\interpolation.cpp:26:6: error: reference to 'next' is ambiguous
+   if(next=='Y'||next=='y')
+      ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next='y';
+      ^~~~
+..\interpolation.cpp:26:17: error: reference to 'next' is ambiguous
+   if(next=='Y'||next=='y')
+                 ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next='y';
+      ^~~~
+..\interpolation.cpp: In function 'void printResult()':
+..\interpolation.cpp:91:9: error: reference to 'next' is ambiguous
+    cin>>next;
+         ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next='y';
+      ^~~~
+15:44:57 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+..\interpolation.cpp: In function 'int main()':
+..\interpolation.cpp:26:6: error: reference to 'next' is ambiguous
+   if(next=='Y'||next=='y')
+      ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next;
+      ^~~~
+..\interpolation.cpp:26:17: error: reference to 'next' is ambiguous
+   if(next=='Y'||next=='y')
+                 ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next;
+      ^~~~
+..\interpolation.cpp: In function 'void printResult()':
+..\interpolation.cpp:91:9: error: reference to 'next' is ambiguous
+    cin>>next;
+         ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next;
+      ^~~~
+15:45:38 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+..\interpolation.cpp: In function 'int main()':
+..\interpolation.cpp:26:6: error: reference to 'next' is ambiguous
+   if(next=='Y'||next=='y')
+      ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next=0;
+      ^~~~
+..\interpolation.cpp:26:17: error: reference to 'next' is ambiguous
+   if(next=='Y'||next=='y')
+                 ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next=0;
+      ^~~~
+..\interpolation.cpp: In function 'void printResult()':
+..\interpolation.cpp:91:9: error: reference to 'next' is ambiguous
+    cin>>next;
+         ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next=0;
+      ^~~~
+15:47:17 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+..\interpolation.cpp: In function 'int main()':
+..\interpolation.cpp:26:6: error: reference to 'next' is ambiguous
+   if(next=='Y'||next=='y')
+      ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next=0;
+      ^~~~
+..\interpolation.cpp:26:17: error: reference to 'next' is ambiguous
+   if(next=='Y'||next=='y')
+                 ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next=0;
+      ^~~~
+..\interpolation.cpp: In function 'void printResult()':
+..\interpolation.cpp:91:9: error: reference to 'next' is ambiguous
+    cin>>next;
+         ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next=0;
+      ^~~~
+15:47:20 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+..\interpolation.cpp: In function 'int main()':
+..\interpolation.cpp:26:6: error: reference to 'next' is ambiguous
+   if(next=='Y'||next=='y')
+      ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next=0;
+      ^~~~
+..\interpolation.cpp:26:17: error: reference to 'next' is ambiguous
+   if(next=='Y'||next=='y')
+                 ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next=0;
+      ^~~~
+..\interpolation.cpp: In function 'void printResult()':
+..\interpolation.cpp:91:9: error: reference to 'next' is ambiguous
+    cin>>next;
+         ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next=0;
+      ^~~~
+15:47:26 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+..\interpolation.cpp: In function 'int main()':
+..\interpolation.cpp:26:6: error: reference to 'next' is ambiguous
+   if(next=='Y'||next=='y')
+      ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next;
+      ^~~~
+..\interpolation.cpp:26:17: error: reference to 'next' is ambiguous
+   if(next=='Y'||next=='y')
+                 ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next;
+      ^~~~
+..\interpolation.cpp: In function 'void printResult()':
+..\interpolation.cpp:91:9: error: reference to 'next' is ambiguous
+    cin>>next;
+         ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:66,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h:39,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:213:5: note: candidates are: 'template<class _InputIterator> _InputIterator std::next(_InputIterator, typename std::iterator_traits<_Iter>::difference_type)'
+     next(_InputIterator __x, typename
+     ^~~~
+..\interpolation.cpp:10:6: note:                 'char next'
+ char next;
+      ^~~~
+15:47:48 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+..\interpolation.cpp: In function 'void printResult()':
+..\interpolation.cpp:91:7: error: no match for 'operator>>' (operand types are 'std::istream' {aka 'std::basic_istream<char>'} and '<unresolved overloaded function type>')
+    cin>>next;
+    ~~~^~~~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:40,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:120:7: note: candidate: 'std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__istream_type& (*)(std::basic_istream<_CharT, _Traits>::__istream_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]'
+       operator>>(__istream_type& (*__pf)(__istream_type&))
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:120:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'std::basic_istream<char>::__istream_type& (*)(std::basic_istream<char>::__istream_type&)' {aka 'std::basic_istream<char>& (*)(std::basic_istream<char>&)'}
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:124:7: note: candidate: 'std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__ios_type& (*)(std::basic_istream<_CharT, _Traits>::__ios_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>; std::basic_istream<_CharT, _Traits>::__ios_type = std::basic_ios<char>]'
+       operator>>(__ios_type& (*__pf)(__ios_type&))
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:124:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'std::basic_istream<char>::__ios_type& (*)(std::basic_istream<char>::__ios_type&)' {aka 'std::basic_ios<char>& (*)(std::basic_ios<char>&)'}
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:131:7: note: candidate: 'std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::ios_base& (*)(std::ios_base&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]'
+       operator>>(ios_base& (*__pf)(ios_base&))
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:131:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'std::ios_base& (*)(std::ios_base&)'
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:168:7: note: candidate: 'std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(bool&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]'
+       operator>>(bool& __n)
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:168:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'bool&'
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:172:7: note: candidate: 'std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(short int&) [with _CharT = char; _Traits = std::char_traits<char>]'
+       operator>>(short& __n);
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:172:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'short int&'
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:175:7: note: candidate: 'std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(short unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]'
+       operator>>(unsigned short& __n)
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:175:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'short unsigned int&'
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:179:7: note: candidate: 'std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(int&) [with _CharT = char; _Traits = std::char_traits<char>]'
+       operator>>(int& __n);
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:179:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'int&'
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:182:7: note: candidate: 'std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]'
+       operator>>(unsigned int& __n)
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:182:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'unsigned int&'
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:186:7: note: candidate: 'std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]'
+       operator>>(long& __n)
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:186:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'long int&'
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:190:7: note: candidate: 'std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]'
+       operator>>(unsigned long& __n)
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:190:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'long unsigned int&'
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:195:7: note: candidate: 'std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long long int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]'
+       operator>>(long long& __n)
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:195:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'long long int&'
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:199:7: note: candidate: 'std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long long unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]'
+       operator>>(unsigned long long& __n)
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:199:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'long long unsigned int&'
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:214:7: note: candidate: 'std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(float&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]'
+       operator>>(float& __f)
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:214:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'float&'
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:218:7: note: candidate: 'std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(double&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]'
+       operator>>(double& __f)
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:218:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'double&'
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:222:7: note: candidate: 'std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long double&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]'
+       operator>>(long double& __f)
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:222:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'long double&'
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:235:7: note: candidate: 'std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(void*&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]'
+       operator>>(void*& __p)
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:235:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'void*&'
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:259:7: note: candidate: 'std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__streambuf_type*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__streambuf_type = std::basic_streambuf<char>]'
+       operator>>(__streambuf_type* __sb);
+       ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:259:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'std::basic_istream<char>::__streambuf_type*' {aka 'std::basic_streambuf<char>*'}
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/string:53,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/locale_classes.h:40,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ios_base.h:41,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios:42,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream:38,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:39,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/basic_string.tcc:1465:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)'
+     operator>>(basic_istream<_CharT, _Traits>& __in,
+     ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/basic_string.tcc:1465:5: note:   template argument deduction/substitution failed:
+..\interpolation.cpp:91:9: note:   couldn't deduce template parameter '_Alloc'
+    cin>>next;
+         ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:991,
+                 from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:40,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/istream.tcc:931:5: note: candidate: 'std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT&) [with _CharT = char; _Traits = std::char_traits<char>]'
+     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT& __c)
+     ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/istream.tcc:931:5: note:   no known conversion for argument 2 from '<unresolved overloaded function type>' to 'char&'
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:40,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:756:5: note: candidate: 'template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char&)'
+     operator>>(basic_istream<char, _Traits>& __in, unsigned char& __c)
+     ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:756:5: note:   template argument deduction/substitution failed:
+..\interpolation.cpp:91:9: note:   cannot convert 'std::next' (type '<unresolved overloaded function type>') to type 'unsigned char&'
+    cin>>next;
+         ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:40,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:761:5: note: candidate: 'template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char&)'
+     operator>>(basic_istream<char, _Traits>& __in, signed char& __c)
+     ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:761:5: note:   template argument deduction/substitution failed:
+..\interpolation.cpp:91:9: note:   cannot convert 'std::next' (type '<unresolved overloaded function type>') to type 'signed char&'
+    cin>>next;
+         ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:40,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:799:5: note: candidate: 'std::basic_istream<_CharT2, _Traits2>& std::operator>>(std::basic_istream<_CharT2, _Traits2>&, _CharT2*) [with _CharT2 = char; _Traits2 = std::char_traits<char>; _CharT = char; _Traits = std::char_traits<char>]'
+     operator>>(basic_istream<char>& __in, char* __s);
+     ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:799:5: note:   no known conversion for argument 2 from '<unresolved overloaded function type>' to 'char*'
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:803:5: note: candidate: 'template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char*)'
+     operator>>(basic_istream<char, _Traits>& __in, unsigned char* __s)
+     ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:803:5: note:   template argument deduction/substitution failed:
+..\interpolation.cpp:91:9: note:   cannot convert 'std::next' (type '<unresolved overloaded function type>') to type 'unsigned char*'
+    cin>>next;
+         ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:40,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:808:5: note: candidate: 'template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char*)'
+     operator>>(basic_istream<char, _Traits>& __in, signed char* __s)
+     ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:808:5: note:   template argument deduction/substitution failed:
+..\interpolation.cpp:91:9: note:   cannot convert 'std::next' (type '<unresolved overloaded function type>') to type 'signed char*'
+    cin>>next;
+         ^~~~
+In file included from C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:40,
+                 from ..\interpolation.cpp:1:
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:980:5: note: candidate: 'template<class _Istream, class _Tp> typename std::enable_if<std::__and_<std::__not_<std::is_lvalue_reference<_Tp> >, std::__is_convertible_to_basic_istream<_Istream>, std::__is_extractable<typename std::__is_convertible_to_basic_istream<_Tp>::__istream_type, _Tp&&, void> >::value, typename std::__is_convertible_to_basic_istream<_Tp>::__istream_type>::type std::operator>>(_Istream&&, _Tp&&)'
+     operator>>(_Istream&& __is, _Tp&& __x)
+     ^~~~~~~~
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:980:5: note:   template argument deduction/substitution failed:
+..\interpolation.cpp:91:9: note:   couldn't deduce template parameter '_Tp'
+    cin>>next;
+         ^~~~
+15:48:02 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+Info: Nothing to build for interpolation
+Info: Nothing to build for interpolation
+16:04:42 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file interpolation.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:04:50 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -o interpolation.exe interpolation.o 
+16:06:59 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+..\interpolation.cpp: In function 'int main()':
+..\interpolation.cpp:26:3: warning: 'next' is used uninitialized in this function [-Wuninitialized]
+   if(next=='Y'||next=='y')
+   ^~
+g++ -o interpolation.exe interpolation.o 
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file interpolation.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:07:19 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file interpolation.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:07:36 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -o interpolation.exe interpolation.o 
+Info: Nothing to build for interpolation
+Info: Nothing to build for interpolation
+Info: Nothing to build for interpolation
+16:09:11 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+..\interpolation.cpp:4:57: error: 'long long' invalid for 'matrix'
+ long long double matrix[matrixDimension][matrixDimension]={0};
+                                                         ^
+..\interpolation.cpp:5:45: error: 'long long' invalid for 'expectedRow'
+ long long double expectedRow[matrixDimension]={0};
+                                             ^
+..\interpolation.cpp:6:48: error: 'long long' invalid for 'expectedColumn'
+ long long double expectedColumn[matrixDimension]={0};
+                                                ^
+..\interpolation.cpp:7:35: error: 'long long' invalid for 'a'
+ long long double a[matrixDimension];
+                                   ^
+..\interpolation.cpp:8:35: error: 'long long' invalid for 'b'
+ long long double b[matrixDimension];
+                                   ^
+..\interpolation.cpp: In function 'void interPolation()':
+..\interpolation.cpp:61:19: error: 'long long' invalid for 'tempSum'
+  long long double tempSum=0;
+                   ^~~~~~~
+16:09:23 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+C:/Program Files/x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file interpolation.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:09:50 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+..\interpolation.cpp: In function 'void interPolation()':
+..\interpolation.cpp:67:38: error: expected primary-expression before 'long'
+    tempSum=tempSum+b[x]*matrix[i][x](long double);
+                                      ^~~~
+..\interpolation.cpp:67:49: error: expression cannot be used as a function
+    tempSum=tempSum+b[x]*matrix[i][x](long double);
+                                                 ^
+16:10:13 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+16:10:42 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+Info: Nothing to build for interpolation
+16:33:55 **** Incremental Build of configuration Debug for project interpolation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o interpolation.o "..\\interpolation.cpp" 
+g++ -o interpolation.exe interpolation.o 
+Info: Nothing to build for interpolation

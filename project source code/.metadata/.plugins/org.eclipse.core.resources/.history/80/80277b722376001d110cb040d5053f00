@@ -1,0 +1,23 @@
+#include <iostream>
+#define matrixDimension 2
+using namespace std;
+double matrix[matrixDimension][matrixDimension]={0};
+double expectedRow[matrixDimension]={0};
+double expectedCoulmn[matrixDimension]={0};
+void takeInputs(void);
+int main(void){
+	takeInputs();
+}
+
+void takeInputs(){
+	for(int i=0;i<matrixDimension;i++){
+	cout<<"Enter the row number"<<endl;
+			for(int x=0;x<matrixDimension;x++){
+				cout<<"a"<<i+1<<x+1<<" ";
+			}
+			cout<<endl;
+			for(int x=0;x<matrixDimension;x++){
+						cin>>matrix[i][x];
+					}
+	}
+}

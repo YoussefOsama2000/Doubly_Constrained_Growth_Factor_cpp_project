@@ -1,0 +1,7 @@
+#include <iostream>
+#define matrixDimension 2
+using namespace std;
+double matrix[matrixDimension][matrixDimension]={0};
+double expectedRow[matrixDimension]={0};
+double expectedCoulmn[matrixDimension]={0};
+int main(){}
